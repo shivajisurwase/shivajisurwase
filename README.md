@@ -1,5 +1,5 @@
 <p align="center">
-  ## 👋 Hi, I’m Shivaji Surwase. I work with these technologies:
+ 👋 Hi, I’m Shivaji Surwase
 </p>
 
 <p align="center">
